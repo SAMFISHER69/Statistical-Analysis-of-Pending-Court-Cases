@@ -1,2 +1,2 @@
-Detailed statistical analysis of pending court cases in Civil Courts and Criminal Court cases of India 
+Detailed statistical analysis of pending court cases in Civil and Criminal Courts of India 
 Tools used MS-Excel
